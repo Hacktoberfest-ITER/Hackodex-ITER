@@ -22,7 +22,11 @@ add some techy words (like code n all) etc and add one banner
   (Unique questions/language would be appritiated)
 - To solve any particular question, click on it and then solve it first on your local IDE.
 - Then upload that file (like missing_number.c or missing_number.java,etc.) from your local system in the submit section of that particular question.
-- Once it successfully passes all the testcases, upload that particular file here in the following format:
+
+- Once it successfully passes all the testcases
+  - Add question comments at top & its link
+  - Now add "author: cses id" as comment at the end of your program (e.g. - author: pritam047)
+  - Upload that particular file here in the following format:
   - githubusername_problemname.fileformat (e.g. - pritam047_missing_number.c)
 - Once we validate it, we shall accept your pull request.
 
