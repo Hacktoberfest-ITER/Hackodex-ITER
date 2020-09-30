@@ -60,7 +60,7 @@ add some techy words (like code n all) etc and add one banner
 
 ### Example of passing test in cses
 
-When you submit the answer to the quesyion in [cses](https://cses.fi)
+When you submit the answer to the question in [cses](https://cses.fi)
 
 You should pass all tests, then only submit it here.
 
