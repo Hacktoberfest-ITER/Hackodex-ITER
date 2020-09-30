@@ -6,6 +6,7 @@
 **Hackodex-ITER/Hackodex-ITER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 add some techy words (like code n all) etc and add one banner
 -->
+
 ### Info:
 
 - This Repo is for ITER College
@@ -25,6 +26,13 @@ add some techy words (like code n all) etc and add one banner
 
 **Note : Don't simply copy paste from others. Try to solve the problems on your own.**
 
+### Example of passing test in cses
+
+When you submit the answer to the quesyion in [cses](https://cses.fi)
+You should pass all tests, then only submit it here.
+
+![Example](https://github.com/Hackodex-ITER/Hackodex-ITER/blob/master/example.jpg?raw=true)
+
+## Official Banner
 
 ![Banner](https://github.com/Hackodex-ITER/Hackodex-ITER/blob/master/Hacktober.png?raw=true)
-
