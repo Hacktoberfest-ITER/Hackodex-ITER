@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+### Hello Coders 👋
 
-You can use the [editor on GitHub](https://github.com/Hackodex-ITER/Hackodex-ITER/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the Hackodex-ITER, hope you're doing well
+![logo](https://avatars2.githubusercontent.com/u/71882736?s=100&u=b91c3740fd573e73abb751fc511c6632a2ca8814&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Info:
 
-### Markdown
+- This Repo is only for ITER College
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- It will help you in Hacktoberfest 2020
 
-```markdown
-Syntax highlighted code block
+- Learning about Open source contributions
 
-# Header 1
-## Header 2
-### Header 3
+### Instrutions:
 
-- Bulleted
-- List
+- First,go to [cses](https://cses.fi)
 
-1. Numbered
-2. List
+- Create a new account first & log in
 
-**Bold** and _Italic_ and `Code` text
+- Then, go to [CSES Problem Set](https://cses.fi/problemset/)
 
-[Link](url) and ![Image](src)
-```
+- Choose any 5 questions of your choice and solve them
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+(Unique questions/language would be appreciated)
 
-### Jekyll Themes
+- To solve any particular question, click on it and then solve it first on your local IDE.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hackodex-ITER/Hackodex-ITER/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Then upload that file (like missing_number.c or missing_number.java,etc.) from your local system in the submit section of that particular question.
 
-### Support or Contact
+- Once it successfully passes all the test cases
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  - fork [CSES Problems](https://github.com/Hackodex-ITER/CSES-Problems) repo from our Github
+  - Add question as comments at top & its link
+  - Now add "author: cses id" as comment at the end of your program (e.g. - author: pritam047)
+  - Example: in Pyhton
+    ```python
+    # Print your Name
+    # cses.fi/printName
+    print('Ayush> Kejariwal')
+    # author: KejariwalAyush
+    ```
+  - Rename that particular file here in the following format:
+  - githubusername_problemname.fileformat (e.g. - pritam047_missing_number.c)
+  - Make a folder of your Github Username & put above file in it (if already exists then add in it)
+  - Add that folder into your stack(language e.g. java, python, etc) folder
+    > example: master/java/KejariwalAyush/KejariwalAyush_missing_number.java
+  - Now commit and push to your repo
+  - And make a pull request to original repo
+
+- Once we validate it, we shall accept your pull request.
+
+**Note : Don't simply copy paste from others. Try to solve the problems on your own.**
+
+### Example of passing test in cses
+
+When you submit the answer to the question in [cses](https://cses.fi)
+
+You should pass all tests, then only submit it here.
+
+![Example](https://github.com/Hackodex-ITER/Hackodex-ITER/blob/master/example.jpg?raw=true)
+
+## Official Banner
+
+![Banner](https://github.com/Hackodex-ITER/Hackodex-ITER/blob/master/Hacktober.png?raw=true)
