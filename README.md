@@ -15,7 +15,7 @@ add some techy words (like code n all) etc and add one banner
 
 - First,go to [cses](https://cses.fi)
 - Create a new account first
-- Then, go to [CSES Problem Set] (https://cses.fi/problemset/)
+- Then, go to [CSES Problem Set](https://cses.fi/problemset/)
 - Choose any 5 questions of your choice and solve them
 - To solve any particular question, click on it and then solve it first on your local IDE.
 - Then upload that file (like missing_number.c or missing_number.java,etc.) from your local system in the submit section of that particular question.
