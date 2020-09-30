@@ -28,7 +28,7 @@ add some techy words (like code n all) etc and add one banner
 
 - Choose any 5 questions of your choice and solve them
 
-(Unique questions/language would be appritiated)
+(Unique questions/language would be appreciated)
 
 - To solve any particular question, click on it and then solve it first on your local IDE.
 
