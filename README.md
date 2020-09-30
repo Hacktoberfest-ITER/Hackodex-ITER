@@ -36,7 +36,7 @@ add some techy words (like code n all) etc and add one banner
 
 - Once it successfully passes all the test cases
 
-  - fork [this] repo
+  - fork [CSES Problems](https://github.com/Hackodex-ITER/CSES-Problems) repo from our Github
   - Add question as comments at top & its link
   - Now add "author: cses id" as comment at the end of your program (e.g. - author: pritam047)
   - Example: in Pyhton
