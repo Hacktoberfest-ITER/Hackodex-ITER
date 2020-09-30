@@ -36,19 +36,23 @@ add some techy words (like code n all) etc and add one banner
 
 - Once it successfully passes all the test cases
 
-- Add question as comments at top & its link
-
-- Now add "author: cses id" as comment at the end of your program (e.g. - author: pritam047)
-
-- Example: in Pyhton
-  ` # Print your Name`
-  ` # abc.com/printName`
-  ` print('Ayush Kejariwal')`
-  ` # author: KejariwalAyush`
-
-- Upload that particular file here in the following format:
-
-- githubusername_problemname.fileformat (e.g. - pritam047_missing_number.c)
+  - fork [this] repo
+  - Add question as comments at top & its link
+  - Now add "author: cses id" as comment at the end of your program (e.g. - author: pritam047)
+  - Example: in Pyhton
+    ```python
+    # Print your Name
+    # cses.fi/printName
+    print('Ayush> Kejariwal')
+    # author: KejariwalAyush
+    ```
+  - Rename that particular file here in the following format:
+  - githubusername_problemname.fileformat (e.g. - pritam047_missing_number.c)
+  - Make a folder of your Github Username & put above file in it (if already exists then add in it)
+  - Add that folder into your stack(language e.g. java, python, etc) folder
+    > example: master/java/KejariwalAyush/KejariwalAyush_missing_number.java
+  - Now commit and push to your repo
+  - And make a pull request to original repo
 
 - Once we validate it, we shall accept your pull request.
 
