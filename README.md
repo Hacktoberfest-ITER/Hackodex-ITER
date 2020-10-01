@@ -12,8 +12,6 @@ add some techy words (like code n all) etc and add one banner
 
 ### Info:
 
-- This Repo is only for ITER College
-
 - It will help you in Hacktoberfest 2020
 
 - Learning about Open source contributions
