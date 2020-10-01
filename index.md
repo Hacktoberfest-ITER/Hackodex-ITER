@@ -5,8 +5,6 @@
 
 ### Info:
 
-- This Repo is only for ITER College
-
 - It will help you in Hacktoberfest 2020
 
 - Learning about Open source contributions
@@ -38,6 +36,7 @@
     # cses.fi/printName
     print('Ayush> Kejariwal')
     # author: KejariwalAyush
+    # profile: https://cses.fi/user/32327/
     ```
   - Rename that particular file here in the following format:
   - githubusername_problemname.fileformat (e.g. - pritam047_missing_number.c)
