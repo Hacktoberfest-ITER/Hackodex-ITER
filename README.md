@@ -43,6 +43,7 @@ add some techy words (like code n all) etc and add one banner
     # cses.fi/printName
     print('Ayush> Kejariwal')
     # author: KejariwalAyush
+    # profile: https://cses.fi/user/32415
     ```
   - Rename that particular file here in the following format:
   - githubusername_problemname.fileformat (e.g. - pritam047_missing_number.c)
