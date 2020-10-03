@@ -3,6 +3,8 @@
 ## Welcome to the Hackodex-ITER, hope you're doing well
 ![logo](https://avatars2.githubusercontent.com/u/71882736?s=100&u=b91c3740fd573e73abb751fc511c6632a2ca8814&v=4)
 
+### Head over to [CSES-Problrems](https://github.com/Hackodex-ITER/CSES-Problems) Repo 
+
 ### Info:
 
 - It will help you in Hacktoberfest 2020
@@ -57,7 +59,3 @@ When you submit the answer to the question in [cses](https://cses.fi)
 You should pass all tests, then only submit it here.
 
 ![Example](https://github.com/Hackodex-ITER/Hackodex-ITER/blob/master/example.jpg?raw=true)
-
-## Official Banner
-
-![Banner](https://github.com/Hackodex-ITER/Hackodex-ITER/blob/master/Hacktober.png?raw=true)
